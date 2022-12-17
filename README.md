@@ -1,4 +1,4 @@
-👋 Hi, I’m @rsingh85
+👋 Hi
 
 <!---
 rsingh85/rsingh85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
